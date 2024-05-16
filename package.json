@@ -1,8 +1,8 @@
 {
   "name": "tonumber",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
+  "repository": "https://github.com/fmented/tonumber",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
